@@ -56,4 +56,4 @@ public/              # Assets
 - PWA support
 - Dark mode toggle
 
-Hackathon-ready insurance platform!
+
